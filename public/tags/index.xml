@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Michelle Fantasy NYC</title>
+    <link>https://michellefantasynyc.com/tags/</link>
+    <description>Recent content in Tags on Michelle Fantasy NYC</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Jul 2025 20:06:24 -0600</lastBuildDate>
+    <atom:link href="https://michellefantasynyc.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Photos</title>
+      <link>https://michellefantasynyc.com/tags/photos/</link>
+      <pubDate>Mon, 14 Jul 2025 20:06:24 -0600</pubDate>
+      <guid>https://michellefantasynyc.com/tags/photos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>https://michellefantasynyc.com/tags/test/</link>
+      <pubDate>Mon, 14 Jul 2025 20:06:24 -0600</pubDate>
+      <guid>https://michellefantasynyc.com/tags/test/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Woohoo</title>
+      <link>https://michellefantasynyc.com/tags/woohoo/</link>
+      <pubDate>Mon, 14 Jul 2025 20:06:24 -0600</pubDate>
+      <guid>https://michellefantasynyc.com/tags/woohoo/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

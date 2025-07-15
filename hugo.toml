@@ -3,10 +3,6 @@ languageCode = 'en-us'
 title = 'Michelle Fantasy NYC'
 theme = "simple-style"
 
-[params]
-    externalLinkNewWindow = true
-
-
 [menus]
   [[menus.main]]
     name = 'About'
