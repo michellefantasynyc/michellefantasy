@@ -6,7 +6,6 @@ theme = "simple-style"
 [params]
     externalLinkNewWindow = true
 
-    favicon = "/img/dog-paw-svgrepo-com.svg"
 
 [menus]
   [[menus.main]]
