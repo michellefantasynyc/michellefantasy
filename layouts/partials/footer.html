@@ -1,0 +1,9 @@
+<footer>
+  <p>
+{{- if .Site.Copyright -}}
+  {{ .Site.Copyright | markdownify }}
+{{- else -}}
+  &copy; Michelle Fantasy. <a href="wikipedia.com">Wikipedia</a>
+{{- end -}}
+  </p>
+</footer>
