@@ -2,7 +2,7 @@
 date = '2025-07-17T20:27:24-06:00'
 draft = false
 title = 'A Secret Admirer'
-categories = ["blog"]
+categories = ["blog post"]
 tags = ["love"]
 +++
 

@@ -2,7 +2,7 @@
 date = '2025-07-14T20:01:24-06:00'
 draft = false
 title = 'Welcome'
-categories = ["article"]
+categories = ["blog post"]
 +++
 
 [![Bold Letter that spell out Michelle Fantasy NYC](/img/MFN.pdf)](/img/MFN.pdf)
