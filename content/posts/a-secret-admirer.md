@@ -5,6 +5,8 @@ title = 'A Secret Admirer'
 categories = ["blog"]
 +++
 
+[![Screenshot of an email that says hey](/img/Screenshot 2025-07-17 at 10.44.36 PM.png)](/img/Screenshot 2025-07-17 at 10.44.36 PM.png)
+
 **Hmmmmm**
 
 So it seems that one of my readers has taken advantage of my email being posted on this site...
