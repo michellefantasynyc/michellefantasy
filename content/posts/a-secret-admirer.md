@@ -3,6 +3,7 @@ date = '2025-07-17T20:27:24-06:00'
 draft = false
 title = 'A Secret Admirer'
 categories = ["blog"]
+tags = ["love"]
 +++
 
 [![Screenshot of an email that says hey](/img/Screenshot.png)](/img/Screenshot.png)
