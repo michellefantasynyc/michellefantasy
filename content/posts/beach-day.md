@@ -2,6 +2,8 @@
 date = '2025-08-28T15:43:55-04:00'
 draft = false
 title = 'Beach Day'
+categories = ["photos"]
+tags = ["beach","beauty"]
 +++
 
 **Beach**
