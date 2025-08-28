@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photos on Michelle Fantasy NYC</title>
+    <link>https://michellefantasynyc.com/categories/photos/</link>
+    <description>Recent content in Photos on Michelle Fantasy NYC</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Jul 2025 20:06:24 -0600</lastBuildDate>
+    <atom:link href="https://michellefantasynyc.com/categories/photos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Second Post</title>
+      <link>https://michellefantasynyc.com/posts/second/</link>
+      <pubDate>Mon, 14 Jul 2025 20:06:24 -0600</pubDate>
+      <guid>https://michellefantasynyc.com/posts/second/</guid>
+      <description>&lt;p&gt;Testing another.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

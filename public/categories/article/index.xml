@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Article on Michelle Fantasy NYC</title>
+    <link>https://michellefantasynyc.com/categories/article/</link>
+    <description>Recent content in Article on Michelle Fantasy NYC</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Jul 2025 20:01:24 -0600</lastBuildDate>
+    <atom:link href="https://michellefantasynyc.com/categories/article/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://michellefantasynyc.com/posts/welcome/</link>
+      <pubDate>Mon, 14 Jul 2025 20:01:24 -0600</pubDate>
+      <guid>https://michellefantasynyc.com/posts/welcome/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://michellefantasynyc.com/img/green.jpg&#34;&gt;&lt;img src=&#34;https://michellefantasynyc.com/img/green.jpg&#34; alt=&#34;Alt Text&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;header&#34;&gt;header&lt;/h1&gt;&#xA;&lt;h2 id=&#34;another-header&#34;&gt;another header&lt;/h2&gt;&#xA;&lt;p&gt;Here is a paragraph.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

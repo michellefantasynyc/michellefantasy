@@ -1,0 +1,18 @@
+baseURL = 'https://michellefantasynyc.com/'
+languageCode = 'en-us'
+title = 'Michelle Fantasy NYC'
+theme = "simple-style"
+
+[menus]
+  [[menus.main]]
+    name = 'About'
+    pageRef = '/about'
+    weight = 10
+    [[menus.main]]
+    name = 'Tags'
+    pageRef = '/tags'
+    weight = 20
+    [[menus.main]]
+    name = 'Categories'
+    pageRef = '/categories'
+    weight = 30
