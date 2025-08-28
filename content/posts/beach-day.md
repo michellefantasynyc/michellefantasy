@@ -12,6 +12,6 @@ title = 'Beach Day'
 
 [![Houses near the beach](/img/beach2.jpg)](/img/beach2.jpg)
 
-I had a lovely day at the beach. Here are some photos...
+I had a lovely day at the beach. Here are some photos I took...
 
 **Michelle**
