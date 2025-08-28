@@ -14,4 +14,4 @@ title = 'Beach Day'
 
 I had a lovely day at the beach. Here are some photos I took...
 
-**Michelle**
+*Michelle*
